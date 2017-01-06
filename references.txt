@@ -1,0 +1,10 @@
+REFERENCES:
+
+1. Core concept inspired by Dungeons and Dragons podcast called "Yogscast"
+2. Combat inspired by the pokemon combat featured in the pokemon games
+3. For questions on syntax, I used stockoverflow.com
+4. For my 'graphics' I was inspired by early-text based games I had used like
+   Dwarf Fortress
+5. For my sort/search methods I used the similar syntax from the search/sort methods
+   in class
+6. My savegame/loadgame idea came from the lab 17 code
